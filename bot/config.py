@@ -17,7 +17,7 @@ class BotCommands:
   Revoke = ['revoke']
   Clone = ['copy', 'clone']
   Delete = ['delete', 'del']
-  EmptyTrash = ['emptyTrash']
+  EmptyTrash = ['emptytrash']
   YtDl = ['ytdl']
 
 class Messages:
